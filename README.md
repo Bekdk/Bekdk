@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Software Engineer focused on designing and developing innovative web and mobile applications that solve real-world problems. I have a strong interest in full-stack development, backend engineering, database management, and system architecture. I enjoy working with modern technologies such as JavaScript, TypeScript, React, Next.js, React Native, Node.js, Express.js, PHP, Java, and MySQL to build efficient, scalable, and user-friendly software solutions.<br>I believe technology is more than just writing code; it is about transforming ideas into meaningful solutions that make a difference. I am continuously learning, exploring emerging technologies, improving my problem-solving abilities, and challenging myself through real-world projects. My goal is to grow as a software engineer, build impactful digital products, and contribute to the development of innovative technologies.
 
 
